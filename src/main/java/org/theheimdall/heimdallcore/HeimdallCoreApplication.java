@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HeimdallCoreApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HeimdallCoreApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(HeimdallCoreApplication.class, args);
+  }
 }
