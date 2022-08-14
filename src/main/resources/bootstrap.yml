@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: heimdall-core
+  cloud:
+    config:
+      uri: ${CLOUD_CONFIG_URI:http://localhost:8888/config}

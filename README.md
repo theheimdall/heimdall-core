@@ -1,3 +1,4 @@
+![workflow](https://github.com/theheimdall/heimdall-core/actions/workflows/config.yml/badge.svg)
 ## High Level Architecture Diagram (V1)
 ![](images/heimdall-v1.jpg)
 
